@@ -116,26 +116,6 @@ a.back:hover{
     border: none;
     background-size: 400px;
 }
-.main ul li a.facebook {
-    background: url('../images/img-sprite.png') no-repeat -200px -43px;
-    background-size: 400px;
-}
-.main ul li a.pinterest {
-    background: url('../images/img-sprite.png') no-repeat -240px -43px;
-    background-size: 400px;
-}
-.main ul li a.twitter:hover {
-    background: url('../images/img-sprite.png') no-repeat -160px 0px;
-    background-size: 400px;
-}
-.main ul li a.facebook:hover {
-    background: url('../images/img-sprite.png') no-repeat -200px 0px;
-    background-size: 400px;
-}
-.main ul li a.pinterest:hover {
-    background: url('../images/img-sprite.png') no-repeat -240px 0px;
-    background-size: 400px;
-}
 .footer{
 	text-align:center;
 	margin-top:100px;
