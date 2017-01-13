@@ -90,14 +90,14 @@ body{
 }
 a.back{
 	display:inline-block;
-	color:#000;
-	border:1px solid #000;
+	color:#fff;
+	border:1px solid #fff;
 	padding:7px 15px;
 	margin-bottom:30px;
 }
 a.back:hover{
-	color:#fff;
-	border:1px solid #fff;
+	color:#00ffff;
+	border:1px solid #00ffff;
 	transition:all 0.5s ease-in-out;
 }
 .main ul {
