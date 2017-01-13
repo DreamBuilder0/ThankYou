@@ -142,16 +142,16 @@ a.back:hover{
 }
 .footer p{
 	font-size:16px;
-	color:#000;
+	color:#fff;
 }
 .footer a{
-	color:#000;
+	color:#fff;
 	font-size:16px;
 	border:none;
 	padding:0;
 }
 .footer a:hover{
-	color:#fff;
+	color:#00ffff;
 	font-size:16px;
 }
 @media(max-width:1366px){
@@ -169,7 +169,7 @@ a.back:hover{
 	.main h1 {
 		font-size: 140px;
 	}
-	
+
 }
 @media(max-width:991px){
 	.main h1 {
