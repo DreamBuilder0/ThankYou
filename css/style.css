@@ -79,6 +79,11 @@ body{
 	font-weight:400;
 	color:#000;
 }
+main h4{
+	font-size:25px;
+	font-weight:400;
+	color:#00ffff;
+}
 .main h1 img{
 	width:11%;
 }
